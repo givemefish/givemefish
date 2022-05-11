@@ -8,7 +8,7 @@ export default () => ({
   blogUrl: 'chiachunchen.net',
   technologies: {
     frontEnd: {
-      js: ['react', 'angular'],
+      js: ['react', 'angular', 'vue'],
       css: ['materialize', 'bootstrap', 'tailwind']
     },
     backend: {
