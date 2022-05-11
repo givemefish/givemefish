@@ -4,8 +4,7 @@
 
 ```js
 export default () => ({
-  pronounces: 'He' | 'Him',
-  blogUrl: 'chiachunchen.net',
+  pronounces: 'He' | 'Him',  
   technologies: {
     frontEnd: {
       js: ['react', 'angular', 'vue'],
