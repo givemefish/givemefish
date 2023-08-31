@@ -1,7 +1,5 @@
 ### 🖖 there, I'm Chia-Chun Chen
 
-![Twitter Follow](https://img.shields.io/twitter/follow/chiachunchen?style=social)
-
 ```js
 export default () => ({
   pronounces: 'He' | 'Him',  
