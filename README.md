@@ -1,16 +1,14 @@
 ### 🖖 there, I'm Chia-Chun Chen
 
 ```js
-export default () => ({
-  pronounces: 'He' | 'Him',  
+export default () => ({  
   technologies: {
     frontEnd: {
-      js: ['react', 'angular', 'vue'],
+      js: ['jquery','react', 'angular', 'vue'],
       css: ['materialize', 'bootstrap', 'tailwind']
     },
     backend: {
-      csharp: ['asp.net core'],
-      js: ['node', 'express']      
+      csharp: ['asp.net core']      
     },
     databases: ['mssql', 'plsql']
   }
