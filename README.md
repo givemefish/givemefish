@@ -7,7 +7,7 @@ export default () => ({
   technologies: {
     frontEnd: {
       js: ['jquery','react', 'angular', 'vue'],
-      css: ['materialize', 'bootstrap', 'tailwind']
+      css: ['bootstrap', 'tailwind']
     },
     backend: {
       csharp: ['asp.net core']      
