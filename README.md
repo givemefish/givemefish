@@ -1,7 +1,9 @@
 ### 🖖 there, I'm Chia-Chun Chen
 
 ```js
-export default () => ({  
+export default () => ({
+  tags: ['husband','father','enginner'],
+  hobbies: ['reading', 'movie', 'calligraphy'],
   technologies: {
     frontEnd: {
       js: ['jquery','react', 'angular', 'vue'],
