@@ -7,4 +7,4 @@ You can find me from these following places!
   <a href="mailto:givemefish@gmail.com">Email</a>
 </p>
 
-[![Chia-Chun Chen's GitHub stats](https://github-readme-stats.vercel.app/api?username=givemefish&count_private=true)]
+[![Chia-Chun Chen's GitHub stats](https://github-readme-stats.vercel.app/api?username=givemefish&count_private=true&show_icons=true)]
