@@ -1,5 +1,4 @@
 ### 🖖 there, I'm Chia-Chun Chen
-
 You can find me from these following places!
 <p>
   <a href="https://givemefish.github.io">Blog</a>    
@@ -7,4 +6,5 @@ You can find me from these following places!
   <a href="mailto:givemefish@gmail.com">Email</a>
 </p>
 
-[![Chia-Chun Chen's GitHub stats](https://github-readme-stats.vercel.app/api?username=givemefish&count_private=true&show_icons=true)]
+![Chia-Chun Chen's GitHub stats](https://github-readme-stats.vercel.app/api?username=givemefish&count_private=true&show_icons=true)
+
