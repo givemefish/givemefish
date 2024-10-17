@@ -1,18 +1,10 @@
 ### 🖖 there, I'm Chia-Chun Chen
 
-```js
-export default () => ({
-  tags: ['husband','father','enginner'],
-  hobbies: ['reading', 'movie', 'calligraphy'],
-  technologies: {
-    frontEnd: {
-      js: ['jquery','react', 'angular', 'vue'],
-      css: ['bootstrap', 'tailwind']
-    },
-    backend: {
-      csharp: ['asp.net core']      
-    },
-    databases: ['mssql', 'plsql']
-  }
-});
-```
+You can find me from these following places!
+<p>
+  <a href="https://givemefish.github.io">Blog</a>    
+  <a href="https://twitter.com/chiachunchen">Twitter</a>
+  <a href="mailto:givemefish@gmail.com">Email</a>
+</p>
+
+[![Chia-Chun Chen's GitHub stats](https://github-readme-stats.vercel.app/api?username=givemefish)](https://github.com/givemefish/github-readme-stats)
